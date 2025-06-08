@@ -6,7 +6,7 @@ API RESTful para gerenciamento de um carrinho de compras.
 
 O projeto inclui uma job (serviço em background) que executa periodicamente duas tarefas:
 
-- **Limpeza de carrinhos não utilizados há mais de 3 horas**
+- **Desativação de carrinhos não utilizados há mais de 3 horas**
 - **Remoção de carrinhos não utilizados há mais de 7 dias**
 
 ## Endpoints
