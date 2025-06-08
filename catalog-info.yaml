@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tech-interview-backend-entry-level
+spec:
+  type: service
+  lifecycle: experimental
+  owner: group:default/rds-marketing

@@ -1,0 +1,4 @@
+pt-BR:
+  errors:
+    messages:
+      must_exist: "não existe"
